@@ -1,7 +1,5 @@
 ### Olá, muito prazer! Sou o Aristeu Miranda 👨! 
 
-- 🔭 Já fui mecânico de autos 🚗, trabalhei como orçamentista em uma empresa de engenharia elétrica ⚡ e atualmente estou em transição de carreira 🚀: Estou estudando e em busca da primeira oportunidade como Desenvolvedor Front-End Júnior 💻🖱.
-- 🌱 Estou estudando React.Js e Vue.Js
 - 📫 E-mail para contato: aristeutecnologia@gmail.com
 
 <div>
